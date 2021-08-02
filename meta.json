@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Slovenia",
+      "id": "Q215"
+    },
+    "cabinet": {
+      "id": "Q86754501",
+      "start": "2020-03-13",
+      "parent": "Q19901640"
+    },
+    "source": {
+        "url":   "https://www.gov.si/en/state-authorities/government/about-the-government/",
+        "title": "About the Government | GOV.SI",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/slovenia-cabinet"
+}
