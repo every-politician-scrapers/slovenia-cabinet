@@ -12,6 +12,14 @@ class MemberList
     end
 
     field :position do
+      return raw_position unless raw_position.include? 'Prime Minister'
+
+      raw_position.split(' and ', 2)
+    end
+
+    private
+
+    def raw_position
       noko.css('p').text.tidy
     end
   end
