@@ -1,0 +1,219 @@
+{
+  "title": "Aleš Hojs",
+  "pageID": 64762363,
+  "categories": [
+    "Living people",
+    "1961 births",
+    "Place of birth missing (living people)",
+    "Interior ministers of Slovenia",
+    "21st-century Slovenian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Aleš Hojs (born 12 December 1961) is a Slovenian politician.",
+              "formatting": {
+                "bold": [
+                  "Aleš Hojs"
+                ]
+              }
+            },
+            {
+              "text": ", he is Minister of the Interior in the 14th Government of Slovenia.",
+              "links": [
+                {
+                  "text": "Minister of the Interior",
+                  "type": "internal",
+                  "page": "Ministry of the Interior (Slovenia)"
+                },
+                {
+                  "text": "14th Government of Slovenia",
+                  "type": "internal",
+                  "page": "14th Government of Slovenia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Slovenian politician",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1961",
+          "month": "12",
+          "day": "12",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2020",
+            "3",
+            "13"
+          ],
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Aleš Hojs"
+          },
+          "image": {
+            "text": "Aleš Hojs 2012cropped.jpg"
+          },
+          "caption": {
+            "text": "Aleš Hojs in 2012"
+          },
+          "office1": {
+            "text": "Minister of Defence",
+            "links": [
+              {
+                "text": "Minister of Defence",
+                "type": "internal",
+                "page": "Minister of Defence (Slovenia)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 February 2012"
+          },
+          "term_end1": {
+            "text": "20 March 2013"
+          },
+          "primeminister1": {
+            "text": "Janez Janša",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Janez Janša"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Ljubica Jelušič",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ljubica Jelušič"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Roman Jakič"
+          },
+          "office2": {
+            "text": "Minister of the Interior",
+            "links": [
+              {
+                "text": "Minister of the Interior",
+                "type": "internal",
+                "page": "Ministry of the Interior (Slovenia)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "13 March 2020"
+          },
+          "primeminister2": {
+            "text": "Janez Janša",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Janez Janša"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Boštjan Poklukar"
+          },
+          "birth_date": {
+            "text": "December 12, 1961"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Aleš Hojs",
+          "url": "https://www.gov.si/en/state-authorities/ministries/ministry-of-the-interior/about-us/ales-hojs-minister-of-the-interior/",
+          "url-status": "live",
+          "access-date": "5 August 2020",
+          "website": "Republic of Slovenia",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "About the Government",
+          "url": "https://www.gov.si/en/state-authorities/government/about-the-government/",
+          "url-status": "live",
+          "access-date": "5 August 2020",
+          "website": "Republic of Slovenia",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://imss.dz-rs.si/IMiS/ImisAdmin.nsf/ImisnetAgent?OpenAgent&2&DZ-MSS-01/035c62c0e4f08d8c6cd351a5b816a83d1e9620e0e35103809628df83fa337da8",
+          "title": "Confirmation of Aleš Hojs as Minister of the Interior",
+          "access-date": "5 August 2020",
+          "language": "sl",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Boštjan Poklukar",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of the Interior",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "Ljubica Jelušič",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Defence",
+          "years": "2012–2013",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Roman Jakič",
+          "template": "s-aft"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "slovenia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

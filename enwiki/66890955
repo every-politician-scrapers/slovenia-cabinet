@@ -1,0 +1,158 @@
+{
+  "title": "Janez Poklukar",
+  "pageID": 66890955,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Health ministers of Slovenia",
+    "21st-century Slovenian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Janez Poklukar is a Slovenian politician and doctor.",
+              "links": [
+                {
+                  "text": "Slovenian",
+                  "type": "internal",
+                  "page": "Slovenia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Janez Poklukar"
+                ]
+              }
+            },
+            {
+              "text": ", he is Minister of Health in the 14th Government of Slovenia.",
+              "links": [
+                {
+                  "text": "14th Government of Slovenia",
+                  "type": "internal",
+                  "page": "14th Government of Slovenia"
+                }
+              ]
+            },
+            {
+              "text": "Previously he held the position of CEO in Ljubljana University Medical Centre.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ljubljana University Medical Centre"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Slovenian politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "2021",
+            "2",
+            "23"
+          ],
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Janez Poklukar"
+          },
+          "image": {
+            "text": "Poklukar FOTO.png"
+          },
+          "caption": {
+            "text": "Janez Poklukar"
+          },
+          "office": {
+            "text": "Minister of Health"
+          },
+          "term_start": {
+            "text": "23 February 2021"
+          },
+          "predecessor": {
+            "text": "Tomaž Gantar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tomaž Gantar"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "24 February 2021",
+          "title": "Slovenia's parl appoints Janez Poklukar new health minister",
+          "work": "SeeNews",
+          "url": "https://seenews.com/news/slovenias-parl-appoints-janez-poklukar-new-health-minister-732360",
+          "url-status": "live",
+          "access-date": "24 February 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "24 February 2021",
+          "title": "Morning Headlines for Slovenia: Wednesday, 24 February 2021",
+          "work": "Total Slovenia News",
+          "url": "https://www.total-slovenia-news.com/news/7837-morning-headlines-for-slovenia",
+          "url-status": "live",
+          "access-date": "24 February 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Tomaž Gantar",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Health",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "slovenia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "title": "Zvone Černač",
+  "pageID": 64767590,
+  "categories": [
+    "Living people",
+    "1962 births",
+    "Place of birth missing (living people)",
+    "Government ministers of Slovenia",
+    "21st-century Slovenian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zvone Černač (born 23 October 1962) is a Slovenian politician.",
+              "formatting": {
+                "bold": [
+                  "Zvone Černač"
+                ]
+              }
+            },
+            {
+              "text": ", he is Minister without portfolio for Development and European Cohesion Policy in the 14th Government of Slovenia.",
+              "links": [
+                {
+                  "text": "14th Government of Slovenia",
+                  "type": "internal",
+                  "page": "14th Government of Slovenia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Slovenian politician",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1962",
+          "month": "10",
+          "day": "23",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2020",
+            "3",
+            "13"
+          ],
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Zvone Černač"
+          },
+          "image": {
+            "text": "Zvone Černač 2012cropped.jpg"
+          },
+          "caption": {
+            "text": "Zvone Černač in 2012"
+          },
+          "office": {
+            "text": "Minister without portfolio for Development and European Cohesion Policy"
+          },
+          "term_start": {
+            "text": "13 March 2020"
+          },
+          "predecessor": {
+            "text": "Angelika Mlinar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Angelika Mlinar"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 23, 1962"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Zvone Černač",
+          "url": "https://www.gov.si/en/state-authorities/government-offices/government-office-for-development-and-european-cohesion-policy/o-sluzbi-vlade-republike-slovenije-za-razvoj-in-evropsko-kohezijsko-politiko/zvonko-cernac-minister-without-portfolio-competent-for-strategic-projects-and-cohesion/",
+          "url-status": "live",
+          "access-date": "5 August 2020",
+          "website": "Republic of Slovenia",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "About the Government",
+          "url": "https://www.gov.si/en/state-authorities/government/about-the-government/",
+          "url-status": "live",
+          "access-date": "5 August 2020",
+          "website": "Republic of Slovenia",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://imss.dz-rs.si/IMiS/ImisAdmin.nsf/ImisnetAgent?OpenAgent&2&DZ-MSS-01/7fc1c1f16f0823df91bc1cc0b9c93e4f65a716d240e525dbdd537164483bc22c",
+          "title": "Confirmation of Zvone Černač as Minister without portfolio for Development and European Cohesion Policy",
+          "access-date": "5 August 2020",
+          "language": "sl",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "slovenia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

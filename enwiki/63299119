@@ -1,0 +1,245 @@
+{
+  "title": "Igor Zorčič",
+  "pageID": 63299119,
+  "categories": [
+    "1978 births",
+    "Living people",
+    "Presidents of the National Assembly (Slovenia)",
+    "Modern Centre Party politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Igor Zorčič (born 9 January 1978 ) is a Slovenian politician who has been Speaker of the National Assembly of Slovenia since 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Speaker of the National Assembly of Slovenia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Igor Zorčič"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Slovenian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1978",
+          "month": "1",
+          "day": "9",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Igor Zorčič"
+          },
+          "image": {
+            "text": "Igor zorcic 1 (cropped).jpg"
+          },
+          "image_size": {
+            "text": "200px"
+          },
+          "office": {
+            "text": "Speaker of the National Assembly of Slovenia",
+            "links": [
+              {
+                "text": "Speaker",
+                "type": "internal",
+                "page": "List of Speakers of the National Assembly of Slovenia"
+              },
+              {
+                "type": "internal",
+                "page": "National Assembly of Slovenia"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Dejan Židan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dejan Židan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "5 March 2020"
+          },
+          "office2": {
+            "text": "Member of the National Assembly of Slovenia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Slovenia"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "13 July 2014"
+          },
+          "birth_date": {
+            "text": "January 9, 1978"
+          },
+          "birth_place": {
+            "text": "Brežice, SR Slovenia, Yugoslavia\n(now Slovenia)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brežice"
+              },
+              {
+                "text": "SR Slovenia",
+                "type": "internal",
+                "page": "Socialist Republic of Slovenia"
+              },
+              {
+                "text": "Yugoslavia",
+                "type": "internal",
+                "page": "Socialist Federal Republic of Yugoslavia"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Slovenian"
+          },
+          "party": {
+            "text": "Modern Centre Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Modern Centre Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Ljubljana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Ljubljana"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.dz-rs.si/wps/portal/Home/ODrzavnemZboru/KdoJeKdo/PoslankeInPoslanci/poslanec?idOseba=P294",
+          "title": "Portal DZ - Poslanec",
+          "publisher": "Dz-rs.si",
+          "access-date": "2020-06-09",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A lawyer by profession, Zorčič entered the Party of Miro Cerar in 2014 and was elected MP in 2014 and 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Party of Miro Cerar"
+                }
+              ]
+            },
+            {
+              "text": "Following the restructuring of the cabinet after the resignation of Marjan Šarec as the Prime Minister in January 2020, Zorčič got elected Speaker of the National Assembly on 5 March 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Marjan Šarec"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "By the beginning of 2021, Zorčič left SMC."
+            },
+            {
+              "text": "On 31 March 2021, SDS-led coalition tried to replace him as the Speaker of Assembly, but this attempt was unsuccessful."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "author": "G. C., A. K. K., Al. Ma.",
+          "url": "https://www.rtvslo.si/slovenija/igor-zorcic-izvoljen-za-predsednika-drzavnega-zbora/516242",
+          "title": "Igor Zorčič izvoljen za predsednika državnega zbora",
+          "publisher": "Rtvslo.Si",
+          "date": "2019-09-20",
+          "access-date": "2020-06-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            ""
+          ],
+          "before": "Dejan Židan",
+          "template": "s-bef"
+        },
+        {
+          "title": "Speaker of the National Assembly of Slovenia",
+          "years": "2020 –",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "speakers of the national assembly of slovenia"
+        },
+        {
+          "template": "slovenia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

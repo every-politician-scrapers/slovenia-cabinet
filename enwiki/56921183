@@ -1,0 +1,332 @@
+{
+  "title": "Matej Tonin",
+  "pageID": 56921183,
+  "categories": [
+    "1983 births",
+    "Living people",
+    "Presidents of the National Assembly (Slovenia)",
+    "Members of the National Assembly (Slovenia)",
+    "University of Ljubljana alumni",
+    "New Slovenia politicians",
+    "Defence ministers of Slovenia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Matej Tonin (born 30 June 1983 ) is a Slovenian politician.",
+              "formatting": {
+                "bold": [
+                  "Matej Tonin"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Tonin graduated from political sciences at the University of Ljubljana in 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Ljubljana"
+                }
+              ]
+            },
+            {
+              "text": "A member of the New Slovenia (NSi) party, he was seen as one of the key people that helped the party win seats in the 2011 parliamentary election, having been absent in the 2008–2011 assembly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Slovenia"
+                },
+                {
+                  "text": "2011 parliamentary election",
+                  "type": "internal",
+                  "page": "2011 Slovenian parliamentary election"
+                }
+              ]
+            },
+            {
+              "text": "Tonin was also elected an MP in the 2014 and 2018 election.",
+              "links": [
+                {
+                  "text": "2014",
+                  "type": "internal",
+                  "page": "2014 Slovenian parliamentary election"
+                },
+                {
+                  "text": "2018 election",
+                  "type": "internal",
+                  "page": "2018 Slovenian parliamentary election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In January 2018, Ljudmila Novak announced her resignation as the president of NSi and Tonin took over the party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ljudmila Novak"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 22 June 2018 Tonin was elected 13th Speaker of the National Assembly.",
+              "links": [
+                {
+                  "text": "Speaker",
+                  "type": "internal",
+                  "page": "Speaker of the National Assembly of Slovenia"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "8th National Assembly of the Republic of Slovenia"
+                }
+              ]
+            },
+            {
+              "text": "Following the formation of the coalition around Marjan Šarec, Tonin stepped down on 23 August 2018 to be replaced by Dejan Židan of Social Democrats.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Marjan Šarec"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dejan Židan"
+                },
+                {
+                  "text": "Social Democrats",
+                  "type": "internal",
+                  "page": "Social Democrats (Slovenia)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 13 March 2020, Tonin became the Minister of Defence in the 14th Government of Slovenia.",
+              "links": [
+                {
+                  "text": "Minister of Defence",
+                  "type": "internal",
+                  "page": "Minister of Defence (Slovenia)"
+                },
+                {
+                  "text": "14th Government of Slovenia",
+                  "type": "internal",
+                  "page": "14th Government of Slovenia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Slovenian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1983",
+          "month": "7",
+          "day": "30",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Matej Tonin"
+          },
+          "image": {
+            "text": "Matej Tonin Slovenija (cropped).jpg"
+          },
+          "predecessor": {
+            "text": "Karl Erjavec",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karl Erjavec"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Defense",
+            "links": [
+              {
+                "text": "Minister of Defense",
+                "type": "internal",
+                "page": "Ministry of Defence (Slovenia)"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Speaker of the National Assembly of Slovenia",
+            "links": [
+              {
+                "text": "Speaker",
+                "type": "internal",
+                "page": "List of Speakers of the National Assembly of Slovenia"
+              },
+              {
+                "type": "internal",
+                "page": "National Assembly of Slovenia"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Milan Brglez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Milan Brglez"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Dejan Židan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dejan Židan"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the National Assembly for Kamnik Electoral District",
+            "links": [
+              {
+                "text": "National Assembly",
+                "type": "internal",
+                "page": "National Assembly (Slovenia)"
+              }
+            ]
+          },
+          "party": {
+            "text": "New Slovenia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Slovenia"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 30, 1983"
+          },
+          "alma_mater": {
+            "text": "University of Ljubljana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Ljubljana"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Political science",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Political science"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 March 2020"
+          },
+          "term_start1": {
+            "text": "22 June 2018"
+          },
+          "term_end1": {
+            "text": "23 August 2018"
+          },
+          "term_start2": {
+            "text": "21 December 2011"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.rtvslo.si/slovenija/zidan-po-izvolitvi-za-predsednika-dz-ja-manjkajocih-glasov-ne-bom-iskal/463895",
+          "title": "Židan po izvolitvi za predsednika DZ-ja: Manjkajočih glasov ne bom iskal",
+          "website": "RTVSLO.si",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.total-slovenia-news.com/politics/5812-meet-the-ministers-in-jansa-s-new-government-feature",
+          "title": "Meet the Ministers in Janša’s New Government (Feature)",
+          "website": "www.total-slovenia-news.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.dz-rs.si/wps/portal/Home/ODrzavnemZboru/KdoJeKdo/PoslankeInPoslanci/poslanec?idOseba=P204",
+          "title": "Portal DZ - Poslanec",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.vecer.com/novakova-odstopila-kot-predsednica-nsi-namesto-nje-tonin-6395341",
+          "title": "Matej Tonin prevzema Novo Slovenijo: je lahko slovenski Kurz?",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "list": [
+            ""
+          ],
+          "before": "Milan Brglez",
+          "template": "s-bef"
+        },
+        {
+          "title": "Speaker of the National Assembly of Slovenia",
+          "years": "2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Dejan Židan",
+          "template": "s-aft"
+        },
+        {
+          "template": "slovenia-bio-stub"
+        }
+      ]
+    }
+  ]
+}

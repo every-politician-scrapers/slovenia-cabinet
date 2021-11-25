@@ -1,0 +1,134 @@
+{
+  "title": "Helena Jaklitsch",
+  "pageID": 64767869,
+  "categories": [
+    "Living people",
+    "1977 births",
+    "Place of birth missing (living people)",
+    "Government ministers of Slovenia",
+    "21st-century Slovenian women politicians",
+    "Women government ministers of Slovenia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Helena Jaklitsch (born 1 July 1977) is a Slovenian politician.",
+              "formatting": {
+                "bold": [
+                  "Helena Jaklitsch"
+                ]
+              }
+            },
+            {
+              "text": ", she is Minister without portfolio for Slovenian Diaspora in the 14th Government of Slovenia.",
+              "links": [
+                {
+                  "text": "14th Government of Slovenia",
+                  "type": "internal",
+                  "page": "14th Government of Slovenia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Slovenian politician",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1977",
+          "month": "7",
+          "day": "1",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2020",
+            "3",
+            "13"
+          ],
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Helena Jaklitsch"
+          },
+          "office": {
+            "text": "Minister without portfolio for Slovenian Diaspora"
+          },
+          "term_start": {
+            "text": "13 March 2020"
+          },
+          "primeminister": {
+            "text": "Janez Janša",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Janez Janša"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Peter Jožef Česnik"
+          },
+          "birth_date": {
+            "text": "July 1, 1977"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Helena Jaklitsch",
+          "url": "https://www.gov.si/en/state-authorities/government-offices/government-office-for-slovenians-abroad/about-the-government-office-for-slovenians-abroad/dr-helena-jaklitsch-minister-without-portfolio-competent-for-relations-between-the-republic-of-slovenia-and-the-autochthonous-slovene-national-community-living-in-neighbouring-countries-as-well-as-between-the-republic-of-slovenia-and-slovenians-living-abr/",
+          "url-status": "live",
+          "access-date": "5 August 2020",
+          "website": "Republic of Slovenia",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "About the Government",
+          "url": "https://www.gov.si/en/state-authorities/government/about-the-government/",
+          "url-status": "live",
+          "access-date": "5 August 2020",
+          "website": "Republic of Slovenia",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://imss.dz-rs.si/IMiS/ImisAdmin.nsf/ImisnetAgent?OpenAgent&2&DZ-MSS-01/5dd84bf3db9c27484ac2b569bfb5833b305584d807ab9900b0f198dcd37f30fa",
+          "title": "Confirmation of Helena Jaklitsch as Minister without portfolio for Slovenian Diaspora",
+          "access-date": "5 August 2020",
+          "language": "sl",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "slovenia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
