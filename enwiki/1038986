@@ -324,7 +324,7 @@
             ]
           },
           "deputy": {
-            "text": "Zdravko Počivalšek Matej Tonin Aleksandra Pivec",
+            "text": "Zdravko Počivalšek\nMatej Tonin\nAleksandra Pivec",
             "links": [
               {
                 "type": "internal",
@@ -353,7 +353,7 @@
             ]
           },
           "president1": {
-            "text": "Danilo Türk Borut Pahor",
+            "text": "Danilo Türk\nBorut Pahor",
             "links": [
               {
                 "type": "internal",
@@ -390,7 +390,7 @@
             ]
           },
           "president2": {
-            "text": "Janez Drnovšek Danilo Türk",
+            "text": "Janez Drnovšek\nDanilo Türk",
             "links": [
               {
                 "type": "internal",
@@ -497,7 +497,7 @@
             "text": "Anton Grizold"
           },
           "primeminister5": {
-            "text": "Lojze Peterle Janez Drnovšek",
+            "text": "Lojze Peterle\nJanez Drnovšek",
             "links": [
               {
                 "type": "internal",
@@ -549,7 +549,7 @@
             ]
           },
           "office7": {
-            "text": "Member of the National Assembly for Grosuplje",
+            "text": "Member of the National Assembly\nfor Grosuplje",
             "links": [
               {
                 "text": "National Assembly",
@@ -588,7 +588,7 @@
             ]
           },
           "party": {
-            "text": "League of Communists (Before 1985) Slovenian Democratic Union (1989–1991) Slovenian Democratic Party (1991–present)",
+            "text": "League of Communists (Before 1985)\nSlovenian Democratic Union (1989–1991)\nSlovenian Democratic Party (1991–present)",
             "links": [
               {
                 "text": "League of Communists",
@@ -606,7 +606,7 @@
             ]
           },
           "spouse": {
-            "text": "Silva Predalič Urška Bačovnik (m. 2009)"
+            "text": "Silva Predalič\nUrška Bačovnik (m. 2009)"
           },
           "children": {
             "text": "4",
@@ -671,14 +671,6 @@
           "type": "web"
         },
         {
-          "title": "Slovenian lawmakers elect conservative parliament speaker",
-          "url": "https://www.businessinsider.com/ap-slovenian-lawmakers-elect-conservative-parliament-speaker-2018-6",
-          "access-date": "2020-11-15",
-          "website": "Business Insider",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "title": "Janez Janša je pred četrt stoletja prevzel vodenje SDS",
           "url": "https://www.delo.si/novice/slovenija/janez-jansa-je-pred-cetrt-stoletja-prevzel-vodenje-sds/",
           "access-date": "2020-11-15",
@@ -729,16 +721,6 @@
           "access-date": "2020-11-15",
           "website": "www.aljazeera.com",
           "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2020-03-12",
-          "title": "Slovenian strongman back at EU top table",
-          "url": "https://www.politico.eu/article/janez-jansa-slovenian-survivor-back-at-eu-top-table/",
-          "access-date": "2020-11-15",
-          "website": "POLITICO",
-          "language": "en-US",
           "template": "citation",
           "type": "web"
         },
@@ -833,6 +815,14 @@
           "date": "28 January 2011",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Slovenian lawmakers elect conservative parliament speaker",
+          "url": "https://www.businessinsider.com/ap-slovenian-lawmakers-elect-conservative-parliament-speaker-2018-6",
+          "access-date": "2020-11-15",
+          "website": "Business Insider",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "https://www.bbc.co.uk/news/world-europe-21611386",
@@ -1043,20 +1033,20 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "League of the Socialist Youth of Slovenia",
+          "lan1": "sl",
+          "text1": "Zveza socialistične mladine Slovenije",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "template": "citation",
           "type": "inline",
           "data": {},
           "inline": {}
-        },
-        {
-          "title": "Slovenian lawmakers elect conservative parliament speaker",
-          "url": "https://www.businessinsider.com/ap-slovenian-lawmakers-elect-conservative-parliament-speaker-2018-6",
-          "access-date": "2020-11-15",
-          "website": "Business Insider",
-          "template": "citation",
-          "type": "web"
         },
         {
           "title": "Nosili so rdeče zvezde",
@@ -1309,6 +1299,14 @@
               "text": "During that time, he also participated in the public discussions on the constitutional changes of Yugoslav and Slovenian constitution."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "League of the Socialist Youth of Slovenia",
+          "lan1": "sl",
+          "text1": "Zveza socialistične mladine Slovenije",
+          "template": "ill"
         }
       ],
       "references": [
@@ -1947,15 +1945,6 @@
           "issn": "0022-3816",
           "template": "citation",
           "type": "journal"
-        },
-        {
-          "title": "Yugoslavia and the profits of doom",
-          "url": "https://euobserver.com/foreign/114482",
-          "access-date": "2020-05-01",
-          "website": "EUobserver",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },
@@ -2024,16 +2013,6 @@
           "title": "Drnovšek podpira Janševo pobudo",
           "publisher": "24ur.com",
           "access-date": "7 January 2012",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2011-12-04",
-          "title": "Kratka zgodovina stranke SDS",
-          "url": "https://www.delo.si/novice/volitve/kratka-zgodovina-stranke-sds.html",
-          "access-date": "2019-01-25",
-          "website": "www.delo.si",
-          "language": "sl-si",
           "template": "citation",
           "type": "web"
         }
@@ -2821,7 +2800,7 @@
               ]
             },
             {
-              "text": "Janša took over Ministry of Finance on 1st of February.",
+              "text": "Janša took over Ministry of Finance on 1 February.",
               "links": [
                 {
                   "text": "Ministry of Finance",
@@ -3912,22 +3891,6 @@
           "type": "web"
         },
         {
-          "title": "Vsak dan prvi - 24ur.com",
-          "url": "https://www.24ur.com/novice/slovenija/lazni-profili.html",
-          "access-date": "2020-11-16",
-          "website": "www.24ur.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Vsak dan prvi - 24ur.com",
-          "url": "https://www.24ur.com/novice/slovenija/lazni-profili.html",
-          "access-date": "2020-11-16",
-          "website": "www.24ur.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "title": "Svet24.si - Koliko jih v resnici sledi Janezu Janši?",
           "url": "https://novice.svet24.si/clanek/novice/slovenija/58445e4074ded/koliko-jih-v-resnici-sledi-janezu-jansi",
           "access-date": "2020-11-16",
@@ -4058,6 +4021,14 @@
           "access-date": "2020-11-16",
           "website": "Foreign Policy",
           "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Vsak dan prvi - 24ur.com",
+          "url": "https://www.24ur.com/novice/slovenija/lazni-profili.html",
+          "access-date": "2020-11-16",
+          "website": "www.24ur.com",
           "template": "citation",
           "type": "web"
         }
@@ -4466,7 +4437,7 @@
       ],
       "templates": [
         {
-          "template": "commonscat"
+          "template": "commons category"
         },
         {
           "template": "s-start"
