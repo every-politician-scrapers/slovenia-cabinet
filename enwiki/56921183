@@ -293,40 +293,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "list": [
-            ""
-          ],
-          "before": "Milan Brglez",
-          "template": "s-bef"
-        },
-        {
-          "title": "Speaker of the National Assembly of Slovenia",
-          "years": "2018",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Dejan Židan",
-          "template": "s-aft"
-        },
-        {
-          "template": "slovenia-bio-stub"
-        }
-      ]
     }
   ]
 }

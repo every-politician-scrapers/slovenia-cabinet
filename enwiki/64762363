@@ -168,52 +168,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Boštjan Poklukar",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of the Interior",
-          "years": "2020–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "before": "Ljubica Jelušič",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Defence",
-          "years": "2012–2013",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Roman Jakič",
-          "template": "s-aft"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "slovenia-politician-stub"
-        }
-      ]
     }
   ]
 }

@@ -128,36 +128,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "before": "Andrej Bertoncelj",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Finance",
-          "years": "2020–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "slovenia-politician-stub"
-        }
-      ]
     }
   ]
 }
