@@ -160,15 +160,6 @@
           "image": {
             "text": "Matej Tonin Slovenija (cropped).jpg"
           },
-          "predecessor": {
-            "text": "Karl Erjavec",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karl Erjavec"
-              }
-            ]
-          },
           "office": {
             "text": "Minister of Defense",
             "links": [
@@ -176,6 +167,27 @@
                 "text": "Minister of Defense",
                 "type": "internal",
                 "page": "Ministry of Defence (Slovenia)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 March 2020"
+          },
+          "primeminister": {
+            "text": "Janez Janša",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Janez Janša"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Karl Erjavec",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karl Erjavec"
               }
             ]
           },
@@ -192,6 +204,12 @@
                 "page": "National Assembly of Slovenia"
               }
             ]
+          },
+          "term_start1": {
+            "text": "22 June 2018"
+          },
+          "term_end1": {
+            "text": "23 August 2018"
           },
           "predecessor1": {
             "text": "Milan Brglez",
@@ -220,6 +238,9 @@
                 "page": "National Assembly (Slovenia)"
               }
             ]
+          },
+          "term_start2": {
+            "text": "21 December 2011"
           },
           "party": {
             "text": "New Slovenia",
@@ -250,18 +271,6 @@
                 "page": "Political science"
               }
             ]
-          },
-          "term_start": {
-            "text": "13 March 2020"
-          },
-          "term_start1": {
-            "text": "22 June 2018"
-          },
-          "term_end1": {
-            "text": "23 August 2018"
-          },
-          "term_start2": {
-            "text": "21 December 2011"
           }
         }
       ],
