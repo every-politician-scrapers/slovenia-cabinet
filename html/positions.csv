@@ -1,20 +1,28 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q495877,President of Slovenia,Q215,Q215,,Q23693310,1991-12-23,,,,President of Slovenia
+Q45758,Prime Minister of Slovenia,Q215,Q215,,,1990-05-16,,Q1419999,,Prime Minister of Slovenia
 Q107764051,Deputy Prime Minister of Slovenia,Q215,Q215,,,,,,,
+Q96787564,"Minister of Agriculture, Forestry and Food",Q215,Q215,,,2014-09-18,,Q20521803,,
+Q20521803,Minister of Agriculture and the Environment,Q215,Q215,,,2012-01-27,2014-09-18,,Q99836910,
 Q12796748,Minister of Culture,Q215,Q215,,,,,,,
 Q20523593,Minister of Defence,Q215,Q215,,,,,,,
 Q95232921,Minister for Slovenians Abroad,Q215,Q215,,,,,,,
 Q12796745,Minister of Economic Development and Technology,Q215,Q215,,,,,,,
 Q20521795,"Minister of Education, Science and Sport",Q215,Q215,,,2013-03-06,,,,
+Q99836910,Minister of the Environment and Spatial Planning,Q215,,,,2014-09-18,,Q20521803,,
 Q12796747,Slovenian finance minister,Q215,Q215,,,,,,,Minister of Finance (Slovenia)
 Q4294924,Minister of Foreign Affairs of Slovenia,Q215,Q215,,,,,,,Minister of Foreign Affairs of Slovenia
 Q20521812,Minister of Health of Slovenia,Q215,Q215,,,,,,,
 Q12796750,"Minister of Higher Education, Science, and Technology",,Q215,,,,2012-01-27,,,
+Q61356430,Minister of Infrastructure,Q215,Q215,,,2014-09-09,,Q20521787,,
+Q20521787,Minister of Infrastructure and Spatial Planning,,Q215,,,2012-01-27,2014-09-18,,Q61356430,
 Q12796749,Minister of the Interior,Q215,Q215,,,,,,,
 Q20522353,Justice Minister of Slovenia,Q215,Q215,,,,,,,
 Q12796744,"Minister of Labour, Family, Social Affairs and Equal Opportunities",Q215,Q215,,,,,,,
 Q12796746,Minister of Public Administration of Slovenia,Q215,,,,,,,,
+Q20522860,Minister of Transport of Slovenia,,Q215,,,,2012-01-27,,Q20521787,
 Q107764310,Minister without Portfolio for Development and EU Cohesion Policy,Q215,Q215,,,,,,,
+Q107557122,Minister without Portfolio for Digital Transformation,Q215,Q215,,,2021-07-16,,,,
 Q95397673,"Minister without portfolio, competent for strategic projects and cohesion",Q215,Q215,,,,,,,
 Q20522401,President of the National Assembly of Slovenia,,,,Q6594819,,,,,President of the National Assembly of Slovenia
 Q109070159,Governor of the Bank of Slovenia,,Q215,,,,,,,
