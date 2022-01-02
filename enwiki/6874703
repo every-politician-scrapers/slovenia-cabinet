@@ -238,31 +238,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Hrvatski jezični portal: Zoran",
-          "url": "http://hjp.novi-liber.hr/index.php?show=search_by_id&id=f15iWhh6&keyword=zora}} {{cite web|title=Hrvatski jezični portal: Janković|url=http://hjp.novi-liber.hr/index.php?show=search_by_id&id=fVhlWRI%3D&keyword=Sobiecki|undefined",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.sta.si/vest.php?s=a&id=1702566",
-          "title": "Positive Slovenia Surprise Winner of Election (II)",
-          "publisher": "Slovenian Press Agency",
-          "date": "4 December 2011",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.sta.si/en/vest.php?s=a&id=1746295",
-          "title": "Janković Sworn in as Ljubljana Mayor Again",
-          "date": "11 April 2012",
-          "publisher": "Slovenian Press Agency",
-          "work": "English Service: News",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

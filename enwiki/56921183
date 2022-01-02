@@ -273,34 +273,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.rtvslo.si/slovenija/zidan-po-izvolitvi-za-predsednika-dz-ja-manjkajocih-glasov-ne-bom-iskal/463895",
-          "title": "Židan po izvolitvi za predsednika DZ-ja: Manjkajočih glasov ne bom iskal",
-          "website": "RTVSLO.si",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.total-slovenia-news.com/politics/5812-meet-the-ministers-in-jansa-s-new-government-feature",
-          "title": "Meet the Ministers in Janša’s New Government (Feature)",
-          "website": "www.total-slovenia-news.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.dz-rs.si/wps/portal/Home/ODrzavnemZboru/KdoJeKdo/PoslankeInPoslanci/poslanec?idOseba=P204",
-          "title": "Portal DZ - Poslanec",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.vecer.com/novakova-odstopila-kot-predsednica-nsi-namesto-nje-tonin-6395341",
-          "title": "Matej Tonin prevzema Novo Slovenijo: je lahko slovenski Kurz?",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

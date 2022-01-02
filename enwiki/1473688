@@ -408,56 +408,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Slovenski pravopis 2001: Borut",
-          "url": "http://bos.zrc-sazu.si/c/SP/neva.exe?name=sp&expression=borut&hs=1",
-          "website": "Bos.zrc-sazu.si",
-          "access-date": "2015-12-31",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20160110073405/http://bos.zrc-sazu.si/c/SP/neva.exe?name=sp&expression=borut&hs=1",
-          "archive-date": "10 January 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Slovenski pravopis 2001: Pahor",
-          "url": "http://bos.zrc-sazu.si/c/SP/neva.exe?name=sp&expression=pahor&hs=1",
-          "website": "Bos.zrc-sazu.si",
-          "access-date": "2015-12-31",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20160110073405/http://bos.zrc-sazu.si/c/SP/neva.exe?name=sp&expression=pahor&hs=1",
-          "archive-date": "10 January 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "President of the Republic of Slovenia",
-          "url": "http://www.up-rs.si/up-rs/uprs-eng.nsf/pages/Zivljenjepis?OpenDocument",
-          "access-date": "2021-03-25",
-          "website": "www.up-rs.si",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.rtvslo.si/predsedniske-volitve-2012/dvk-pahor-67-08-odstotka-tuerk-32-92-odstotka/297155",
-          "title": "Pahor: Türk 67,44% : 32,56%. Nizka udeležba, 2% neveljavnih glasovnic",
-          "publisher": "MMC RTV Slovenija",
-          "access-date": "3 December 2012",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.rtvslo.si/slovenija/mmczivo-pahor-po-zmagi-potrudil-se-bom-da-bo-moj-glas-bolj-slisan/437655",
-          "title": "MMCživo: Pahor po zmagi: Potrudil se bom, da bo moj glas bolj slišan",
-          "access-date": "2017-11-12",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20171112233256/http://www.rtvslo.si/slovenija/mmczivo-pahor-po-zmagi-potrudil-se-bom-da-bo-moj-glas-bolj-slisan/437655",
-          "archive-date": "12 November 2017",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

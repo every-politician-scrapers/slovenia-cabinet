@@ -137,16 +137,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.dz-rs.si/wps/portal/Home/ODrzavnemZboru/KdoJeKdo/PoslankeInPoslanci/poslanec?idOseba=P294",
-          "title": "Portal DZ - Poslanec",
-          "publisher": "Dz-rs.si",
-          "access-date": "2020-06-09",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
