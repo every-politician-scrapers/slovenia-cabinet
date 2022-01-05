@@ -254,9 +254,6 @@
           "template": "use dmy dates"
         },
         {
-          "template": "stack begin"
-        },
-        {
           "year": "1958",
           "month": "09",
           "day": "17",
@@ -267,12 +264,6 @@
           "spouse": "Urška Bačovnik",
           "from": "2009",
           "template": "marriage"
-        },
-        {
-          "template": "janez janša series"
-        },
-        {
-          "template": "stack end"
         },
         {
           "transcription": "ˈíːʋan ˈjàːnʃa",
@@ -289,7 +280,7 @@
             "text": "Janez Janša"
           },
           "image": {
-            "text": "Janez Janša, Brussels (51614751895) (cropped).jpg"
+            "text": "Янез Янша (15-12-2021).jpg"
           },
           "image_size": {
             "text": "200px"
@@ -612,6 +603,10 @@
                 "page": "University of Ljubljana"
               }
             ]
+          },
+          "width": {
+            "text": "250",
+            "number": 250
           }
         }
       ]
