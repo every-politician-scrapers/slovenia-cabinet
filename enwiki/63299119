@@ -119,8 +119,13 @@
             "text": "Slovenian"
           },
           "party": {
-            "text": "Modern Centre Party",
+            "text": "Liberal Democrats (2021–) \nModern Centre Party (2014–2021)",
             "links": [
+              {
+                "text": "Liberal Democrats",
+                "type": "internal",
+                "page": "Liberal Democrats (Slovenia)"
+              },
               {
                 "type": "internal",
                 "page": "Modern Centre Party"
