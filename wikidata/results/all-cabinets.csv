@@ -1,15 +1,15 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q1152924,Cabinet of Alojz Peterle,1990-05-16,11,,,1992-05-14,11,,,Q19901640,Cabinet of Slovenia,,,,,Q45703,Cabinet of Janez Drnovšek I,,,Q45703,Cabinet of Janez Drnovšek I
-,Q45703,Cabinet of Janez Drnovšek I,1992-05-14,11,,,1993-01-25,11,,,Q19901640,Cabinet of Slovenia,,,Q1152924,Cabinet of Alojz Peterle,,,Q1152924,Cabinet of Alojz Peterle,Q45702,Cabinet of Janez Drnovšek II
-,Q45702,Cabinet of Janez Drnovšek II,1993-01-25,11,,,1997-02-27,11,,,Q19901640,Cabinet of Slovenia,,,,,,,Q45703,Cabinet of Janez Drnovšek I,Q45699,Cabinet of Janez Drnovšek III
-4,Q45699,Cabinet of Janez Drnovšek III,1997-02-27,11,,,2000-06-07,11,,,Q19901640,Cabinet of Slovenia,,,,,Q2280465,Cabinet of Andrej Bajuk,Q45702,Cabinet of Janez Drnovšek II,Q2280465,Cabinet of Andrej Bajuk
-5,Q2280465,Cabinet of Andrej Bajuk,2000-06-07,11,,,2000-11-30,11,,,Q19901640,Cabinet of Slovenia,,,Q45699,Cabinet of Janez Drnovšek III,Q2280533,Cabinet of Janez Drnovšek IV,,,,
-,Q2280533,Cabinet of Janez Drnovšek IV,2000-11-30,11,,,2002-12-19,11,,,Q19901640,Cabinet of Slovenia,,,Q2280465,Cabinet of Andrej Bajuk,Q2280513,Cabinet of Anton Rop,,,,
-7,Q2280513,Cabinet of Anton Rop,2002-12-19,11,,,2004-12-03,11,,,Q19901640,Cabinet of Slovenia,,,Q2280533,Cabinet of Janez Drnovšek IV,Q2280474,Cabinet of Janez Janša I,,,,
-,Q2280474,Cabinet of Janez Janša I,2004-12-03,11,,,2008-11-21,11,,,Q19901640,Cabinet of Slovenia,,,Q2280513,Cabinet of Anton Rop,Q1607590,Cabinet of Borut Pahor,,,,
-9,Q1607590,Cabinet of Borut Pahor,2008-11-21,11,,,2011-09-20,11,,,Q19901640,Cabinet of Slovenia,,,Q2280474,Cabinet of Janez Janša I,Q586306,Cabinet of Janez Janša II,,,,
-,Q586306,Cabinet of Janez Janša II,2012-02-10,11,,,2013-03-20,11,,,Q19901640,Cabinet of Slovenia,,,Q1607590,Cabinet of Borut Pahor,Q7867688,Cabinet of Alenka Bratušek,,,Q7867688,Cabinet of Alenka Bratušek
-,Q7867688,Cabinet of Alenka Bratušek,2013-03-20,11,,,2014-09-18,11,,,Q19901640,Cabinet of Slovenia,,,Q586306,Cabinet of Janez Janša II,Q18074891,Cabinet of Miro Cerar,Q586306,Cabinet of Janez Janša II,Q18074891,Cabinet of Miro Cerar
-,Q18074891,Cabinet of Miro Cerar,2014-09-18,11,,,2018-09-13,11,,,Q19901640,Cabinet of Slovenia,,,Q7867688,Cabinet of Alenka Bratušek,Q56215774,13th Government of Slovenia,Q7867688,Cabinet of Alenka Bratušek,,
-,Q56215774,13th Government of Slovenia,2018-09-13,11,,,2020-03-13,11,,,Q1264458,Government of Slovenia,,,Q18074891,Cabinet of Miro Cerar,Q86754501,14th Government of Slovenia,,,Q86754501,14th Government of Slovenia
-14,Q86754501,14th Government of Slovenia,2020-03-13,11,,,,,,,Q19901640,Cabinet of Slovenia,,,Q56215774,13th Government of Slovenia,,,Q56215774,13th Government of Slovenia,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q1152924,Cabinet of Alojz Peterle,1990-05-16,11,,,1992-05-14,11,,,,,Q45703,Cabinet of Janez Drnovšek I,,,Q45703,Cabinet of Janez Drnovšek I
+,Q45703,Cabinet of Janez Drnovšek I,1992-05-14,11,,,1993-01-25,11,,,Q1152924,Cabinet of Alojz Peterle,,,Q1152924,Cabinet of Alojz Peterle,Q45702,Cabinet of Janez Drnovšek II
+,Q45702,Cabinet of Janez Drnovšek II,1993-01-25,11,,,1997-02-27,11,,,,,,,Q45703,Cabinet of Janez Drnovšek I,Q45699,Cabinet of Janez Drnovšek III
+4,Q45699,Cabinet of Janez Drnovšek III,1997-02-27,11,,,2000-06-07,11,,,,,Q2280465,Cabinet of Andrej Bajuk,Q45702,Cabinet of Janez Drnovšek II,Q2280465,Cabinet of Andrej Bajuk
+5,Q2280465,Cabinet of Andrej Bajuk,2000-06-07,11,,,2000-11-30,11,,,Q45699,Cabinet of Janez Drnovšek III,Q2280533,Cabinet of Janez Drnovšek IV,,,,
+,Q2280533,Cabinet of Janez Drnovšek IV,2000-11-30,11,,,2002-12-19,11,,,Q2280465,Cabinet of Andrej Bajuk,Q2280513,Cabinet of Anton Rop,,,,
+7,Q2280513,Cabinet of Anton Rop,2002-12-19,11,,,2004-12-03,11,,,Q2280533,Cabinet of Janez Drnovšek IV,Q2280474,Cabinet of Janez Janša I,,,,
+,Q2280474,Cabinet of Janez Janša I,2004-12-03,11,,,2008-11-21,11,,,Q2280513,Cabinet of Anton Rop,Q1607590,Cabinet of Borut Pahor,,,,
+9,Q1607590,Cabinet of Borut Pahor,2008-11-21,11,,,2011-09-20,11,,,Q2280474,Cabinet of Janez Janša I,Q586306,Cabinet of Janez Janša II,,,,
+,Q586306,Cabinet of Janez Janša II,2012-02-10,11,,,2013-03-20,11,,,Q1607590,Cabinet of Borut Pahor,Q7867688,Cabinet of Alenka Bratušek,,,Q7867688,Cabinet of Alenka Bratušek
+,Q7867688,Cabinet of Alenka Bratušek,2013-03-20,11,,,2014-09-18,11,,,Q586306,Cabinet of Janez Janša II,Q18074891,Cabinet of Miro Cerar,Q586306,Cabinet of Janez Janša II,Q18074891,Cabinet of Miro Cerar
+,Q18074891,Cabinet of Miro Cerar,2014-09-18,11,,,2018-09-13,11,,,Q7867688,Cabinet of Alenka Bratušek,Q56215774,13th Government of Slovenia,Q7867688,Cabinet of Alenka Bratušek,,
+,Q56215774,13th Government of Slovenia,2018-09-13,11,,,2020-03-13,11,,,Q18074891,Cabinet of Miro Cerar,Q86754501,14th Government of Slovenia,,,Q86754501,14th Government of Slovenia
+14,Q86754501,14th Government of Slovenia,2020-03-13,11,,,,,,,Q56215774,13th Government of Slovenia,,,Q56215774,13th Government of Slovenia,,
