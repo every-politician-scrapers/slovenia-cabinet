@@ -44,7 +44,7 @@
               }
             },
             {
-              "text": "Janša has led the Slovenian Democratic Party, which has emerged as the pre-eminent Slovenian conservative party since 1993.",
+              "text": "Since 1993, Janša has led the Slovenian Democratic Party, which has emerged as the pre-eminent Slovenian conservative party.",
               "links": [
                 {
                   "type": "internal",
@@ -120,7 +120,7 @@
         {
           "sentences": [
             {
-              "text": "A communist in his youth, Janša's political stance has drifted rightward during the course of his political career, from a liberal  pro-democracy dissident  under communist rule, to a social democrat politician, and to a right-wing hardliner.",
+              "text": "A communist in his youth, Janša's political stance has drifted rightward during the course of his political career, from a liberal, pro-democracy dissident under communist rule, to a social democrat politician, and to a right-wing hardliner.",
               "links": [
                 {
                   "text": "communist",
@@ -155,7 +155,7 @@
               ]
             },
             {
-              "text": "Janša has more recently been described as a far-right leader by The Independent, and by Foreign Policy.",
+              "text": "Janša has more recently been described as a far-right leader by The Independent and by Foreign Policy.",
               "links": [
                 {
                   "text": "far-right",
@@ -179,12 +179,17 @@
               }
             },
             {
-              "text": "His style of politics has been compared to Donald Trump; he has been dubbed a \"MAGA-style populist\" by NPR, \"the Slovenian Trump\" by Der Spiegel, and \"mini-Trump\" by Deutsche Welle.",
+              "text": "His style of politics has been compared to Donald Trump.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Donald Trump"
-                },
+                }
+              ]
+            },
+            {
+              "text": "He has been dubbed a \"MAGA-style populist\" by NPR, \"the Slovenian Trump\" by Der Spiegel, and \"mini-Trump\" by Deutsche Welle.",
+              "links": [
                 {
                   "text": "MAGA",
                   "type": "internal",
