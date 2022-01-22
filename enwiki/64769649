@@ -92,6 +92,15 @@
           },
           "birth_date": {
             "text": "November 25, 1957"
+          },
+          "party": {
+            "text": "Concretely (2021–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Concretely"
+              }
+            ]
           }
         }
       ]
