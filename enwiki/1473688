@@ -153,10 +153,6 @@
       ],
       "templates": [
         {
-          "date": "May 2021",
-          "template": "cleanup bare urls"
-        },
-        {
           "description": "Fourth President of Slovenia",
           "template": "short description"
         },
