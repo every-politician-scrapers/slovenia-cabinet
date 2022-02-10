@@ -17,6 +17,13 @@
           "sentences": [
             {
               "text": "Andrej Šircelj (born 28 February 1959) is a Slovenian politician.",
+              "links": [
+                {
+                  "text": "Slovenian",
+                  "type": "internal",
+                  "page": "Slovenia"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Andrej Šircelj"
@@ -45,6 +52,10 @@
         {
           "description": "Slovenian politician",
           "template": "short description"
+        },
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
         },
         {
           "df": "yes",
