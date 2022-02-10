@@ -17,6 +17,13 @@
           "sentences": [
             {
               "text": "Andrej Vizjak (born 6 August 1964) is a Slovenian politician.",
+              "links": [
+                {
+                  "text": "Slovenian",
+                  "type": "internal",
+                  "page": "Slovenia"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Andrej Vizjak"
@@ -40,6 +47,10 @@
         {
           "description": "Slovenian politician",
           "template": "short description"
+        },
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
         },
         {
           "df": "yes",
