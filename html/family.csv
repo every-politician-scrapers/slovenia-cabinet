@@ -1,0 +1,20 @@
+id,name,relationship,relative,relativename
+Q100550379,Jure Ferjan,spouse,Q109526036,Karmen Kozmus Ferjan
+Q109526036,Karmen Kozmus Ferjan,spouse,Q100550379,Jure Ferjan
+Q17117413,Miro Cerar,father,Q722550,Miroslav Cerar
+Q17117413,Miro Cerar,mother,Q17150812,Zdenka Cerar
+Q171228,Janez Drnovšek,child,Q12792244,Jaša Drnovšek
+Q171228,Janez Drnovšek,child,Q12797276,Nana Forte
+Q194443,Milan Kučan,child,Q65683244,Ana Kučan
+Q194443,Milan Kučan,spouse,Q18643151,Štefka Kučan
+Q206471,Borut Pahor,partner,Q29044078,Tanja Pečar
+Q217903,Zmago Jelinčič Plemeniti,child,Q18608682,Klemen Jelinčič Boeta
+Q240347,Katarina Kresal,partner,Q108470425,Miro Senica
+Q3091258,Goran Klemenčič,spouse,Q18586746,Nina Zidar Klemenčič
+Q5252688,Dejan Prešiček,sibling,Q12797505,Nina Prešiček
+Q560656,Dimitrij Rupel,sibling,Q19936297,Fedja Rupel
+Q57329,Danilo Türk,spouse,Q18507823,Barbara Miklič Türk
+Q57627,Janez Janša,spouse,Q96312268,Urška Bačovnik Janša
+Q7916849,Vasko Simoniti,father,Q12799763,Rado Simoniti
+Q7916849,Vasko Simoniti,sibling,Q18529771,Iztok Simoniti
+Q7916849,Vasko Simoniti,spouse,Q107970431,Alenka Zor Simoniti
