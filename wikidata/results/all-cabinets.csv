@@ -12,4 +12,5 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q7867688,Cabinet of Alenka Bratušek,2013-03-20,11,,,2014-09-18,11,,,Q586306,Cabinet of Janez Janša II,Q18074891,Cabinet of Miro Cerar,Q586306,Cabinet of Janez Janša II,Q18074891,Cabinet of Miro Cerar
 ,Q18074891,Cabinet of Miro Cerar,2014-09-18,11,,,2018-09-13,11,,,Q7867688,Cabinet of Alenka Bratušek,Q56215774,13th Government of Slovenia,Q7867688,Cabinet of Alenka Bratušek,,
 ,Q56215774,13th Government of Slovenia,2018-09-13,11,,,2020-03-13,11,,,Q18074891,Cabinet of Miro Cerar,Q86754501,14th Government of Slovenia,,,Q86754501,14th Government of Slovenia
-14,Q86754501,14th Government of Slovenia,2020-03-13,11,,,,,,,Q56215774,13th Government of Slovenia,,,Q56215774,13th Government of Slovenia,,
+14,Q86754501,14th Government of Slovenia,2020-03-13,11,,,2022-05-25,11,,,Q56215774,13th Government of Slovenia,Q112121256,15th Government of Slovenia,Q56215774,13th Government of Slovenia,Q112121256,15th Government of Slovenia
+15,Q112121256,15th Government of Slovenia,2022-05-25,11,,,,,,,Q86754501,14th Government of Slovenia,,,Q86754501,14th Government of Slovenia,,
