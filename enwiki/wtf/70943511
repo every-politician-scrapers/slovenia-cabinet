@@ -1,0 +1,158 @@
+{
+  "title": "Igor Papič",
+  "pageID": 70943511,
+  "categories": [
+    "Living people",
+    "1966 births",
+    "Slovenian politicians",
+    "Government ministers of Slovenia",
+    "Freedom Movement (Slovenia) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Igor Papič (born May 24, 1966 in Ljubljana, Slovenia) is a Slovenian engineer and politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ljubljana"
+                },
+                {
+                  "type": "internal",
+                  "page": "Slovenia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Igor Papič"
+                ]
+              }
+            },
+            {
+              "text": "He currently serves as the Minister of Education, Science and Sport of the Republic of Slovenia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Republic of Slovenia"
+                }
+              ]
+            },
+            {
+              "text": "In 2017, he was elected rector of the University of Ljubljana.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Ljubljana"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Slovenian engineer and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1966",
+          "month": "05",
+          "day": "24",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Igor Papič"
+          },
+          "office": {
+            "text": "Minister of Education, Science and Sport of the Republic of Slovenia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Republic of Slovenia"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "June 1, 2022"
+          },
+          "birth_date": {
+            "text": "May 24, 1966"
+          },
+          "birth_place": {
+            "text": "Ljubljana, Slovenia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ljubljana, Slovenia"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Robert Golob",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Robert Golob"
+              }
+            ]
+          },
+          "party": {
+            "text": "Freedom Movement (Slovenia)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Freedom Movement (Slovenia)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Igor Papič - 52114942649 (cropped).jpg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Most Top Officials Named in Slovenia’s New Govt",
+          "url": "https://www.total-slovenia-news.com/politics/10086-most-top-officials-named-in-slovenia-s-new-govt",
+          "access-date": "2022-06-04",
+          "website": "www.total-slovenia-news.com",
+          "language": "en-gb",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Hanžič",
+          "first": "Sandra",
+          "date": "2017-05-16",
+          "title": "Pod žarometom: Igor Papič",
+          "url": "https://old.delo.si/znanje/izobrazevanje/pod-zarometom-igor-papic.html",
+          "access-date": "2022-06-04",
+          "website": "old.delo.si",
+          "language": "sl-si",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "slovenia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
