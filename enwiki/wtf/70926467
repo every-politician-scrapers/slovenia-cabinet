@@ -8,6 +8,7 @@
     "Slovenian surgeons",
     "Slovenian politicians",
     "21st-century Slovenian politicians",
+    "Deputy Prime Ministers of Slovenia",
     "Government ministers of Slovenia",
     "Freedom Movement (Slovenia) politicians"
   ],
@@ -33,8 +34,13 @@
               }
             },
             {
-              "text": "He serves as the current Deputy Minister-President and Minister of Health of Slovenia in the cabinet of Robert Golob since 2022.",
+              "text": "He serves as the current Deputy Prime Minister and Minister of Health of Slovenia in the cabinet of Robert Golob since 2022.",
               "links": [
+                {
+                  "text": "Deputy Prime Minister",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Slovenia"
+                },
                 {
                   "type": "internal",
                   "page": "Slovenia"
@@ -74,8 +80,13 @@
             "text": "Danijel Bešič Loredan - 52114942839 (cropped).jpg"
           },
           "office": {
-            "text": "Deputy Minister and Minister of Health of Slovenia",
+            "text": "Deputy Prime Minister and Minister of Health of Slovenia",
             "links": [
+              {
+                "text": "Deputy Prime Minister",
+                "type": "internal",
+                "page": "Deputy Prime Minister of Slovenia"
+              },
               {
                 "type": "internal",
                 "page": "Slovenia"

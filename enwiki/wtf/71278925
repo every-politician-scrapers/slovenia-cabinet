@@ -239,16 +239,16 @@
       ],
       "references": [
         {
+          "url": "https://archive.ph/Qbr5",
+          "title": "Lokalne volitve 2006",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "https://www.dvk-rs.si/arhivi/lv2010/rezultati/obcina_tolmin.html",
+          "title": "Lokalne volitve 2010",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "title": "Lokalne volitve 2014",
