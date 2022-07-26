@@ -1,0 +1,22 @@
+[
+  {
+    "office": {
+      "links": [
+        "Mayor",
+        "Radeče"
+      ],
+      "stated_as": "Mayor of the Municipality of Radeče"
+    },
+    "P580": "2006",
+    "P582": "2011"
+  },
+  {
+    "office": {
+      "links": [
+        "Republic of Slovenia"
+      ],
+      "stated_as": "Minister of Economic Development and Technology of the Republic of Slovenia"
+    },
+    "P580": "2022-06-01"
+  }
+]
