@@ -1,22 +1,22 @@
-pageid,title
-1473688,Borut Pahor
-6874703,Zoran Janković (politician)
-26811446,Tanja Fajon
-54344664,Marjan Šarec
-57588543,Luka Mesec
-70490527,Robert Golob
-70774205,Urška Klakočar Zupančič
-70895806,Matej Arčon
-70926467,Danijel Bešič Loredan
-70942608,Irena Šinko
-70943511,Igor Papič
-70947842,Tatjana Bobnar
-70949847,Klemen Boštjančič
-70954626,Matjaž Han
-70965165,Dominika Švarc Pipan
-70966503,Sanja Ajanovič Hovnik
-70976336,Bojan Kumer
-71278853,Asta Vrečko
-71278925,Uroš Brežan
-71279006,Aleksander Jevšek
-71279279,Emilija Stojmenova Duh
+pageid,title,wikidata,label
+1473688,Borut Pahor,Q206471,Borut Pahor
+6874703,Zoran Janković (politician),Q220521,Zoran Janković
+26811446,Tanja Fajon,Q462744,Tanja Fajon
+54344664,Marjan Šarec,Q12795878,Marjan Šarec
+57588543,Luka Mesec,Q18627634,Luka Mesec
+70490527,Robert Golob,Q18645045,Robert Golob
+70774205,Urška Klakočar Zupančič,Q111513149,Urška Klakočar Zupančič
+70895806,Matej Arčon,Q12796056,Matej Arčon
+70926467,Danijel Bešič Loredan,Q111341121,Danijel Bešič Loredan
+70942608,Irena Šinko,Q112197081,Irena Šinko
+70943511,Igor Papič,Q29963962,Igor Papič
+70947842,Tatjana Bobnar,Q104524244,Tatjana Bobnar
+70949847,Klemen Boštjančič,Q112197754,Klemen Boštjančič
+70954626,Matjaž Han,Q18644615,Matjaž Han
+70965165,Dominika Švarc Pipan,Q66087643,Dominika Švarc Pipan
+70966503,Sanja Ajanovič Hovnik,Q112196363,Sanja Ajanovič Hovnik
+70976336,Bojan Kumer,Q112135099,Bojan Kumer
+71278853,Asta Vrečko,Q65899442,Asta Vrečko
+71278925,Uroš Brežan,Q112075086,Uroš Brežan
+71279006,Aleksander Jevšek,Q18488039,Aleksander Jevšek
+71279279,Emilija Stojmenova Duh,Q97558793,Emilija Stojmenova Duh

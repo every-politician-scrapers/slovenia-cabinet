@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "City Municipality of Murska Sobota"
+      ],
+      "stated_as": "Mayor of Murska Sobota"
+    },
+    "P580": "2014",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Anton Štihec"
+    },
+    "P582": "2022",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Zoran Hoblaj"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Development, Strategic Projects and Cohesion"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Zvone Černač"
+      ],
+      "stated_as": "Zvone Černač"
+    }
+  }
+]

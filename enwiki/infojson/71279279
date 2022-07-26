@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of the Strategic Council for Digitization"
+    },
+    "P580": "2021-04-10",
+    "P582": "2022-06-07"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Digital Transformation"
+    },
+    "P580": "2022-06-01",
+    "P1365": {
+      "links": [
+        "Mark Boris Andrijanič"
+      ],
+      "stated_as": "Mark Boris Andrijanič"
+    }
+  }
+]

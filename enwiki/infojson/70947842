@@ -1,0 +1,21 @@
+[
+  {
+    "office": {
+      "links": [
+        "Slovenian National Police Force"
+      ],
+      "stated_as": "Director General of the Slovenian National Police Force"
+    },
+    "P580": "2018-12-12",
+    "P582": "2020-03-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Republic of Slovenia"
+      ],
+      "stated_as": "Minister of the Interior in the Republic of Slovenia"
+    },
+    "P580": "2022-06-01"
+  }
+]
