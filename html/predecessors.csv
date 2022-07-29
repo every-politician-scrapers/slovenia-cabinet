@@ -1,0 +1,26 @@
+wanted,position,positionid,from,start,end
+Q58079,Deputy Prime Minister,Q107764051,Q56612692,2020-03-13,2020-10-05
+Q3739767,"Minister without portfolio, competent for strategic projects and cohesion",Q95397673,Q524225,2019-12-19,2020-03-13
+Q34233147,Minister of the Environment and Spatial Planning,Q99836910,Q64854453,2018-09-13,2019-02-27
+Q12787433,Minister of the Environment and Spatial Planning,Q99836910,Q34231243,2014-09-18,2018-09-13
+Q12796431,Minister of Economic Development and Technology,Q12796745,Q18604386,2014-09-18,2014-12-04
+Q1545201,Minister of Public Administration,Q12796746,Q19932900,2014-09-18,2018-09-13
+Q52144822,Minister of Infrastructure,Q61356430,Q18642753,2014-09-18,2018-09-13
+Q10820628,"Minister of Labour, Family, Social Affairs and Equal Opportunities",Q12796744,Q13608253,2013-03-20,2018-09-13
+Q12787433,Minister of Agriculture and the Environment,Q20521803,Q12016827,2012-02-10,2013-02-25
+Q18524134,Minister for the Diaspora,Q95232921,Q431743,2012-02-10,2013-03-20
+Q2623815,Minister of the Interior,Q12796749,Q11903061,2012-02-10,2013-02-27
+Q640635,"Minister of Education, Science and Sport",Q20521795,Q135216,2012-02-10,2013-02-27
+Q2280312,Minister of Economic Development and Technology,Q12796745,Q2698706,2012,2013
+Q12016827,"Minister of Agriculture, Forestry and Food",Q96787564,Q12787433,2010-05-05,2018
+Q1545201,Minister of Public Administration,Q12796746,Q18507957,2008-11-21,2011-06-27
+Q1628512,"Minister of Higher Education, Science, and Technology",Q12796750,Q640635,2008-11-21,2012-02-10
+Q2024776,Minister of the Interior,Q12796749,Q240347,2008-11-21,2011-09-02
+Q24760362,Minister of Transport,Q20522860,Q2698706,2007,2008
+Q12792041,Minister of the Environment and Spatial Planning,Q99836910,Q3487795,2004-12-03,2008-11-21
+Q1178306,ambassador to the United States,Q38251483,Q1378416,2004,2008
+Q12784802,Minister of Defence,Q20523593,Q58079,2004,2008
+Q464922,Minister of Finance,Q12796747,Q16732934,2002-12-19,2004-12-03
+Q18643129,Mayor of Ljubljana,Q109296872,Q1567700,2002,2006
+Q16193547,Minister of Defence,Q20523593,Q57627,2000-06-07,2000-11-30
+Q12786161,Minister of Foreign Affairs,Q4294924,Q560656,2000-02-02,2000-06-07
