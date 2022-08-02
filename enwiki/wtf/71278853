@@ -55,6 +55,10 @@
           "template": "short description"
         },
         {
+          "date": "August 2022",
+          "template": "cleanup bare urls"
+        },
+        {
           "date": "July 2022",
           "template": "use mdy dates"
         },

@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Emilija Stojmenova Duh (born December 25, 1985) is a Macedonian-Slovenian economist and politician.",
+              "text": "Emilija Stojmenova Duh (born December 25, 1985) is a Macedonian-Slovenian electrical engineer and politician.",
               "formatting": {
                 "bold": [
                   "Emilija Stojmenova Duh"
@@ -109,7 +109,7 @@
             ]
           },
           "occupation": {
-            "text": "politician, economist"
+            "text": "politician, electrical engineer, scientist"
           }
         }
       ],
