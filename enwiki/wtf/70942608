@@ -1,0 +1,207 @@
+{
+  "title": "Irena Šinko",
+  "pageID": 70942608,
+  "categories": [
+    "Living people",
+    "1964 births",
+    "Slovenian politicians",
+    "21st-century Slovenian politicians",
+    "Government ministers of Slovenia",
+    "Freedom Movement (Slovenia) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Irena Šinko (born January 5, 1964) is a Slovenian government official and lawyer.",
+              "links": [
+                {
+                  "text": "lawyer",
+                  "type": "internal",
+                  "page": "lawyer"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Irena Šinko"
+                ]
+              }
+            },
+            {
+              "text": "She currently serves as the Minister of Agriculture, Forestry and Food."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Slovenian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1964",
+          "month": "01",
+          "day": "05",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Irena Šinko"
+          },
+          "office": {
+            "text": "Minister of Agriculture, Forestry and Food"
+          },
+          "termstart": {
+            "text": "June 1, 2022"
+          },
+          "birth_date": {
+            "text": "January 5, 1964"
+          },
+          "alma_mater": {
+            "text": "University of Ljubljana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Ljubljana"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Slovenia"
+          },
+          "party": {
+            "text": "Freedom Movement (Slovenia)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Freedom Movement (Slovenia)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Irena Šinko - 52114942599 (cropped).jpg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "STA: Farmers hail choice of Irena Šinko for agriculture minister",
+          "url": "https://english.sta.si/3038601/farmers-hail-choice-of-irena-sinko-for-agriculture-minister",
+          "access-date": "2022-06-04",
+          "website": "english.sta.si",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She graduated with a degree in Agricultural engineering from the University of Ljubljana and in law at the University of Maribor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Ljubljana"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Maribor"
+                }
+              ]
+            },
+            {
+              "text": "She worked as a technologist in a feed factory in Lendava.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lendava"
+                }
+              ]
+            },
+            {
+              "text": "From 1995, she headed the department of Agriculture and economy in the administrative unit of Murska Sobota.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Murska Sobota"
+                }
+              ]
+            },
+            {
+              "text": "Between 2010–2018, she served as the director of the state fund for Agricultural and Forest land."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In June 2022, on the recommendation of the Freedom Movement, she took the position of the Minister of agriculture, forestry and food in the government of Robert Golob.",
+              "links": [
+                {
+                  "text": "Freedom Movement",
+                  "type": "internal",
+                  "page": "Freedom Movement (Slovenia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Robert Golob"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Irena Šinko potrjena za kmetijsko ministrico, zavzemala se bo za večjo samooskrbo s hrano",
+          "url": "https://www.rtvslo.si/slovenija/irena-sinko-potrjena-za-kmetijsko-ministrico-zavzemala-se-bo-za-vecjo-samooskrbo-s-hrano/629239",
+          "access-date": "2022-06-04",
+          "website": "RTVSLO.si",
+          "language": "sl",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Irena Šinko potrjena za kmetijsko ministrico, zavzemala se bo za večjo samooskrbo s hrano",
+          "url": "https://www.rtvslo.si/slovenija/irena-sinko-potrjena-za-kmetijsko-ministrico-zavzemala-se-bo-za-vecjo-samooskrbo-s-hrano/629239",
+          "access-date": "2022-06-04",
+          "website": "RTVSLO.si",
+          "language": "sl",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Who Are the Ministers in Slovenia’s New Govt?",
+          "url": "https://www.total-slovenia-news.com/politics/10084-who-are-the-ministers-in-slovenia-s-new-govt",
+          "access-date": "2022-06-04",
+          "website": "www.total-slovenia-news.com",
+          "language": "en-gb",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "slovenia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

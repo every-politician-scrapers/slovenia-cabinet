@@ -1,0 +1,213 @@
+{
+  "title": "Urška Klakočar Zupančič",
+  "pageID": 70774205,
+  "categories": [
+    "1977 births",
+    "Living people",
+    "Presidents of the National Assembly (Slovenia)",
+    "Members of the National Assembly (Slovenia)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Urška Klakočar Zupančič (born 19 June 1977 in Trbovlje ) is a Slovenian lawyer and politician.",
+              "formatting": {
+                "bold": [
+                  "Urška Klakočar Zupančič"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She is a member of the Freedom Movement political party.",
+              "links": [
+                {
+                  "text": "Freedom Movement",
+                  "type": "internal",
+                  "page": "Freedom Movement (Slovenia)"
+                }
+              ]
+            },
+            {
+              "text": "In the 2022 Slovenian parliamentary election, she got elected to the National Assembly.",
+              "links": [
+                {
+                  "text": "2022 Slovenian parliamentary election",
+                  "type": "internal",
+                  "page": "2022 Slovenian parliamentary election"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Slovenia)"
+                }
+              ]
+            },
+            {
+              "text": "On 13 May 2022, she was elected as the Speaker of the National Assembly, she became the first woman to hold this position."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Speaker of the Slovenian National Assembly",
+          "template": "short description"
+        },
+        {
+          "date": "May 2022",
+          "template": "expand slovene"
+        },
+        {
+          "year": "1977",
+          "month": "6",
+          "day": "19",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Urška Klakočar Zupančič"
+          },
+          "image": {
+            "text": "Urška Klakočar Zupančič.jpg"
+          },
+          "office": {
+            "text": "Speaker of the National Assembly of Slovenia",
+            "links": [
+              {
+                "text": "Speaker",
+                "type": "internal",
+                "page": "List of Speakers of the National Assembly of Slovenia"
+              },
+              {
+                "type": "internal",
+                "page": "National Assembly of Slovenia"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Igor Zorčič",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Igor Zorčič"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 May 2022"
+          },
+          "office2": {
+            "text": "Member of the National Assembly of Slovenia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Slovenia"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "13 May 2022"
+          },
+          "birth_date": {
+            "text": "June 19, 1977"
+          },
+          "birth_place": {
+            "text": "Sevnica, SR Slovenia, Yugoslavia\n(now Slovenia)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sevnica"
+              },
+              {
+                "text": "SR Slovenia",
+                "type": "internal",
+                "page": "Socialist Republic of Slovenia"
+              },
+              {
+                "text": "Yugoslavia",
+                "type": "internal",
+                "page": "Socialist Federal Republic of Yugoslavia"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Slovenian"
+          },
+          "party": {
+            "text": "Freedom Movement",
+            "links": [
+              {
+                "text": "Freedom Movement",
+                "type": "internal",
+                "page": "Freedom Movement (Slovenia)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://onave.si/mag-urska-klakocar-zupancic/",
+          "title": "Mag. Urška Klakočar Zupančič",
+          "date": "11 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.rtvslo.si/slovenija/dz-dobil-prvo-predsednico-na-funkcijo-s-55-glasovi-izvoljena-urska-klakocar-zupancic/627200",
+          "title": "Urška Klakočar Zupančič izvoljena za prvo predsednico DZ-ja: \"Morda je to prvi znanilec sprememb\"",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            ""
+          ],
+          "before": "Igor Zorčič",
+          "template": "s-bef"
+        },
+        {
+          "title": "Speaker of the National Assembly of Slovenia",
+          "years": "2022 –",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "speakers of the national assembly of slovenia"
+        },
+        {
+          "template": "slovenia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
